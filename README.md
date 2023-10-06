@@ -10,7 +10,7 @@ This repository contains materials related to the "Blockchain in Government" ass
 
 3. [**Demo Video**](demo_video.mp4): A demonstration video showcasing the practical implementation of blockchain in a government-related scenario.
 
-4. [**Demo Code**](demo_code.py): Python code demonstrating a simple blockchain implementation for government applications.
+4. [**Demo Code**](demo_code): Python code demonstrating a simple blockchain implementation for government applications.
 
 ## Repository Structure
 
