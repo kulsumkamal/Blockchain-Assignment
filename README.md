@@ -28,9 +28,9 @@ The repository is organized as follows:
 If you'd like to explore the content, you can simply click on the links above to access the respective files. For the demo code, you can clone this repository locally and run the Python script.
 
 ```bash
-git clone https://github.com/your-username/blockchain-in-government.git
-cd blockchain-in-government
-python demo_code.py
+git clone https://github.com/kulsumkamal/Blockchain-In-Government.git
+cd Blockchain-In-Government
+python demo_code/app.py
 ```
 
 ## Acknowledgments
