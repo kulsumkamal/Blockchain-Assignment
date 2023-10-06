@@ -24,7 +24,7 @@ The repository is organized as follows:
 ├── report.pdf\
 ├── presentation.pdf\
 ├── demo_video.mp4\
-├── demo_code.py\
+├── demo_code\
 └── README.md
 
 
