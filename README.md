@@ -1,8 +1,8 @@
 # Blockchain in Government Assignment
 
-Name: Kulsum Kamal
-Roll no: 40
-Enrolment no: 12020002018046
+Name: Kulsum Kamal\
+Roll no: 40\
+Enrolment no: 12020002018046\
 Stream: CSBS
 
 This repository contains materials related to the "Blockchain in Government" assignment, including a report, a presentation, a demo video, and Python demo code.
